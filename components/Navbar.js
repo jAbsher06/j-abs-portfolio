@@ -6,7 +6,7 @@ import userData from '../constants/data'
 
 export default function Navbar() {
   const router  = useRouter();
-  const { theme, setTheme } = useTheme();
+  const { theme, setTheme } = useTheme('light');
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
