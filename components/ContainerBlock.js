@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
-import Navbar from "./Navbar";
+import Navbar from './Navbar';
 
 export default function ContainerBlock ({ children, ...customMeta }) {
   const router = useRouter();
@@ -9,7 +9,6 @@ export default function ContainerBlock ({ children, ...customMeta }) {
   const meta = {
     title: "Jared Absher -  Developer, Designer, and Engineer",
     description: "I develop websites that make a positive impact in people's lives. Get in touch with me",
-    image: "",
     type: "website",
     ...customMeta,
   };
@@ -37,5 +36,5 @@ export default function ContainerBlock ({ children, ...customMeta }) {
         <div>{children}</div>
       </main>
     </div>
-  )
+  );
 }
