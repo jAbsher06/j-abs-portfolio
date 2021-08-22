@@ -24,11 +24,6 @@ export default function Hero() {
               Programmer.
             </h1>
           </RainbowHighlight>
-          <RainbowHighlight color={colors[3]}>
-            <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
-              Youtuber.
-            </h1>
-          </RainbowHighlight>
         </RoughNotationGroup>
       </div>
       <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 mt-20">
