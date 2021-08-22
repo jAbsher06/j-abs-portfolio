@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "jAbsher06",
   name: "Jared Absher",
   designation: "Full Stack Software Engineer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/avatar.jpeg",
   email: "jared.absher@gmail.com",
   address: "Charlotte, NC",
   projects: [

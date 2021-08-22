@@ -10,9 +10,11 @@ export default function ContainerBlock ({ children, ...customMeta }) {
   const meta = {
     title: "Jared Absher -  Developer, Designer, and Engineer",
     description: "I develop websites that make a positive impact in people's lives. Get in touch with me",
+    image: "/avatar.jpeg",
     type: "website",
     ...customMeta,
   };
+
   return (
     <div>
       <Head>
