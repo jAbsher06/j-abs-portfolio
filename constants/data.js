@@ -100,7 +100,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://docs.google.com/document/d/1QMnf6HYq_FXlCKt56-gvhdD1nxSIQlwAR72MreBeO9w/edit?usp=sharing",
   socialLinks: {
     linkedin: "https://linkedin.com/in/jAbs06",
     github: "https://github.com/jAbsher06",
