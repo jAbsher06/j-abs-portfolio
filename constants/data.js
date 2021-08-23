@@ -7,7 +7,7 @@ const userData = {
   address: "Charlotte, NC",
   projects: [
     {
-      title: "J. Absher Portfolio",
+      title: "Jared's Portfolio",
       link: "https://jAbsher.dev",
       imgUrl: "/portfolio.png",
     },
