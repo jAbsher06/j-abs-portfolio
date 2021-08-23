@@ -44,7 +44,7 @@ const userData = {
       company: "Upscale Digital Compositions",
       year: "2021",
       companyLink: "https://mroads.com",
-      desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
+      desc: "Redesigned website for local construction company.",
     },
     {
       title: "Graduation",
@@ -58,19 +58,19 @@ const userData = {
       company: "Mecklenburg EMS Agency",
       year: "2017",
       companyLink: "https://medic911.com",
-      desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
+      desc: "Provided live-saving medical treatment to those who called 911 in Charlotta, NC.",
     },
     {
       title: "Project Manager",
       company: "US Navy",
       year: "2014",
-      desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
+      desc: "Managed medical readiness for base in Sasebo, Japan.",
     },
     {
       title: "Medic Supervisor",
       company: "United States Navy",
       year: "2009",
-      desc: "Deployed with Marine Infantry unit twice to Afghanistan. ",
+      desc: "Deployed with Marine Infantry unit twice to Afghanistan.",
     },
     {
       title: "Joined Navy",
