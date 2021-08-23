@@ -17,14 +17,9 @@ const userData = {
       imgUrl: "/fashionFactory.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      title: "Salut",
+      link: "https://github.com/blue-nutrition/blue-nutrition",
+      imgUrl: "/salut.png",
     },
     {
       title: "Algochurn",
