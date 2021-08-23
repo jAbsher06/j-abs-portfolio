@@ -70,8 +70,8 @@ const userData = {
       title: "Graduation",
       company: "Hack Reactor",
       year: "2021",
-      companyLink: "https://tailwindmasterkit.com",
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
+      companyLink: "https://galvanize.com",
+      desc: "Completed Advanced Software Engineering Bootcamp.",
     },
     {
       title: "Paramedic",
