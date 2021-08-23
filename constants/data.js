@@ -60,24 +60,24 @@ const userData = {
   },
   experience: [
     {
-      title: "Software Developer",
-      company: "mroads",
+      title: "Freelance Software Developer",
+      company: "Upscale Digital Compositions",
       year: "2021",
       companyLink: "https://mroads.com",
       desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
     },
     {
-      title: "Founder and Developer",
-      company: "TailwindMasterKit",
+      title: "Graduation",
+      company: "Hack Reactor",
       year: "2021",
       companyLink: "https://tailwindmasterkit.com",
       desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
     },
     {
-      title: "Founder and Developer",
-      company: "Algochurn",
-      year: "2021",
-      companyLink: "https://algochurn.com",
+      title: "Paramedic",
+      company: "Mecklenburg EMS Agency",
+      year: "2017",
+      companyLink: "https://medic911.com",
       desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
     },
     {
