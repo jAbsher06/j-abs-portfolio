@@ -12,9 +12,9 @@ const userData = {
       imgUrl: "/portfolio.png",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Fashion Factory",
+      link: "https://github.com/CP-Front-End-Capstone/fashion-factory",
+      imgUrl: "/fashionFactory.png",
     },
     {
       title: "Portfolio",
