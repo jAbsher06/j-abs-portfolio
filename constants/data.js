@@ -82,7 +82,7 @@ const userData = {
   resumeUrl:
     "https://docs.google.com/document/d/1QMnf6HYq_FXlCKt56-gvhdD1nxSIQlwAR72MreBeO9w/edit?usp=sharing",
   socialLinks: {
-    linkedin: "https://linkedin.com/in/jAbs06",
+    linkedin: "https://linkedin.com/in/jaredCodes",
     github: "https://github.com/jAbsher06",
   },
 };
